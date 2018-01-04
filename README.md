@@ -1,2 +1,3 @@
 # hello-world
-Hello, World! Tradition
+Hello, World! 
+Continuing the CS Tradition
